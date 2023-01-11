@@ -34,7 +34,7 @@ int main() {
 		long long A, B;
 		cin >> A >> B;
 
-		/* Enter your code here. */
+		
              try 
         {
             cout << Server::compute(A, B) << endl;
